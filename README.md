@@ -1,5 +1,5 @@
 # LicensePlateDetectionYOLACT
-Detecting Indian License Plates with YOLACT Object Detection algorithm - [YOLACT OFFICIAL](https://github.com/dbolya/yolact) <br>
+Detecting vehicles license plates with YOLACT Object Detection algorithm - [YOLACT OFFICIAL](https://github.com/dbolya/yolact) <br>
 Dataset Source: [Kaggle](https://www.kaggle.com/dataturks/vehicle-number-plate-detection) <br>
 Image Labelling Tool: [LabelImg](https://github.com/tzutalin/labelImg)
 
